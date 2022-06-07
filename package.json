@@ -11,7 +11,15 @@
     "express": "~4.16.1",
     "hbs": "^4.2.0",
     "http-errors": "~1.6.3",
+    "mongoose": "~5.9.2",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+
+    "hbs": "^4.2.0",
+
+    "seedgoose": "^2.0.2"
+
   }
 }
