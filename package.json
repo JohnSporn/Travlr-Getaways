@@ -11,15 +11,13 @@
     "express": "~4.16.1",
     "hbs": "^4.2.0",
     "http-errors": "~1.6.3",
-    "mongoose": "~5.9.2",
+    "mongoose": "^5.13.14",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
   },
   "devDependencies": {
-
     "hbs": "^4.2.0",
-
     "seedgoose": "^2.0.2"
-
   }
 }
