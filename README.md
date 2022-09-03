@@ -17,4 +17,5 @@ The project uses the MEAN stack:
 # Running Application
  * Clone repository
  * Download dependencies
- * 
+ * Run nodemon in the main directory to start the backend
+ * Run ng serve inside app_admin folder to start the frontend 
