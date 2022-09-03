@@ -19,3 +19,22 @@ The project uses the MEAN stack:
  * Download dependencies
  * Run nodemon in the main directory to start the backend
  * Run ng serve inside app_admin folder to start the frontend 
+
+# Screenshots
+
+## Admin SPA
+
+### Home Page
+![Home_Page](https://user-images.githubusercontent.com/70078012/188279807-6f67d1d6-29f2-422c-82cd-5be2936aa5c0.png)
+
+### Login Page
+![Login_Page](https://user-images.githubusercontent.com/70078012/188279657-d6213b90-9cc2-4fe2-88f6-5aff574b8edf.png)
+
+### Trips Page
+![Trips_Page](https://user-images.githubusercontent.com/70078012/188279843-630fe320-8042-4301-9799-e7c1b38761b4.png)
+
+### Add Trip Page
+![Add_Trip](https://user-images.githubusercontent.com/70078012/188279971-e01ad585-90d6-4fb9-a6f9-fe1d2664ff2c.png)
+
+### Edit Trip Page
+![Edit_Trip](https://user-images.githubusercontent.com/70078012/188279997-894117f9-ab33-4719-a6ac-67a7585ec1d4.png)
