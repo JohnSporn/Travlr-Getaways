@@ -13,3 +13,8 @@ The project uses the MEAN stack:
  * Node.js
  * MongoDB
  * Angular CLI
+ 
+# Running Application
+ * Clone repository
+ * Download dependencies
+ * 
